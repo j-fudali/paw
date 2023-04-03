@@ -9,10 +9,10 @@
         <form method="POST" action="{$app_url}/app/auth/login.php">
             <div class="row">
                 <div class="col span_24">
-                    <input type="text" placeholder="Login" id="login" name="login">
+                    <input type="text" placeholder="Login..." id="login" name="login">
                 </div>
                 <div class="span_24">
-                    <input type="password" placeholder="password" id="password" name="password">
+                    <input type="password" placeholder="Hasło..." id="password" name="password">
                 </div>
             </div>
             <div class="row">
