@@ -21,3 +21,15 @@
 - Wprowadza nową strukturę
 - Wprowadza plik init.php, który inicjalizuje globalne zmienne i ustawienia
 - Wprowadza mechanizm przestrzeni nazw
+
+## kal_kredyt_lab7
+
+- Wprowadza obiekt User, obiekt użytkownika
+- Wprowadza obiekty Router i Route do obsługi routingu aplikacji
+- Wzbogaca plik utlities.php o dodatkowe funkcje
+
+## kal_kredyt_lab8
+
+- Wprowadza biblioteke Medoo do obłsugi bazy danych
+- Wprowadza zapisywanie danych wyników do bazy danych
+- Wprowadza podstronę Wyniki, gdzie wyświetlana jest lista wyników z datą ich zapisania w bazie dla zalogowanego użytkownika
